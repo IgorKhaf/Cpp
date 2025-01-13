@@ -11,9 +11,9 @@ std::cin >> payRate;
 
 weeklyPay = workDays*workHours*payRate;
 
-std::cout << "Weekly Pay = ";
-std::cout << weeklyPay;
-std::cout << "\n";
+std::cout << "Weekly Pay = " << weeklyPay << '\n';
+// std::cout << weeklyPay;
+// std::cout << "\n";
 
 
 return 0;
