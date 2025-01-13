@@ -2,15 +2,19 @@
 
 int main()
 {
-int workDays;
-float workHours, payRate, weeklyPay;
+int workDays =5;
+float workHours =7.5;
+float payRate, weeklyPay;
 
-workDays = 5;
-workHours = 7.5;
-payRate = 38.55;
+std::cout << "What is the hourly pay rate?";
+std::cin >> payRate;
+
 weeklyPay = workDays*workHours*payRate;
+
 std::cout << "Weekly Pay = ";
 std::cout << weeklyPay;
-std::cout << '\n';
+std::cout << "\n";
+
+
 return 0;
 }
