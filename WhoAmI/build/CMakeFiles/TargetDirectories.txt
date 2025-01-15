@@ -1,0 +1,3 @@
+/Users/igorkhafizov/Documents/College/Winter_2025/C++/WhoAmI/build/CMakeFiles/DisplayImage.dir
+/Users/igorkhafizov/Documents/College/Winter_2025/C++/WhoAmI/build/CMakeFiles/edit_cache.dir
+/Users/igorkhafizov/Documents/College/Winter_2025/C++/WhoAmI/build/CMakeFiles/rebuild_cache.dir
